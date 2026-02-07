@@ -30,6 +30,7 @@ os (for file handling)
 collections (for counting word frequencies)
 
 Folder Structure & Data
+
 ⚠️ IMPORTANT: To run this code successfully, the dataset must be organized in specific folders relative to the .ipynb file. The code uses relative paths (./train-mails and ./test-mails) to ensure portability.
 
 The directory structure should look like this:
